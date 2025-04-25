@@ -8,3 +8,5 @@ The agents include:
 5.	Supervisor Agent – Coordinates all other agents and selects the best one to handle your query.
 
 All wrapped in a clean Streamlit interface that runs smoothly on your local machine.
+
+Note: Inorder to use job search agent, generate your API key from https://serper.dev/
