@@ -9,4 +9,7 @@ The agents include:
 
 All wrapped in a clean Streamlit interface that runs smoothly on your local machine.
 
+Here is the detailed blog on Executing this project step by step: https://medium.com/@mfazil2409/dino-digital-nomad-companion-f82a823b893a
+
+
 Note: Inorder to use job search agent, generate your API key from https://serper.dev/
